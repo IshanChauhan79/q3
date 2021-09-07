@@ -1,0 +1,10 @@
+.Error {
+  font-size: 3rem;
+  padding: 2em;
+  text-align: center;
+}
+.Home {
+  font-size: 2rem;
+  padding: 0.5em;
+  color: lightblue;
+}
